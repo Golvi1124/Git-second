@@ -1,0 +1,17 @@
+* {margin: 0;
+box-sizing: border-box;}
+
+body {min-height: 100svh;
+background-color: rgb(173, 228, 119);
+color: rgb(146, 9, 82);
+border: solid 1px white;}
+
+h1 {font-size: 60px;
+font-family: cursive;}
+
+img {max-width: 400px;
+border-radius: 40%;}
+
+div {
+    max-width: 450px;
+}
